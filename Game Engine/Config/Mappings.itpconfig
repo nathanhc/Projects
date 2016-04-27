@@ -1,0 +1,19 @@
+{
+	"ActionMappings":[
+		{ "name": "Quit", "key": 27 },
+		{ "name": "Recenter", "key": 114 },
+		{ "name": "Jump", "key": 32 },
+		{ "name": "Neg", "key": 49 },
+		{ "name": "Ray", "key": 50 },
+		{ "name": "Pix", "key": 51 },
+		{ "name": "Toon", "key": 52 },
+		{ "name": "Rad", "key": 53 },
+		{ "name": "Blur", "key": 54 },
+		{ "name": "Glow", "key": 55 },
+		{ "name": "Depth", "key": 56 }
+	],
+	"AxisMappings":[
+		{ "name": "Forward", "posKey": 119, "negKey": 115 },
+		{ "name": "Left", "posKey": 97, "negKey": 100 }
+	]
+}
